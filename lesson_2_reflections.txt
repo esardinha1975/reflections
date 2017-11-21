@@ -10,3 +10,8 @@ What value do you think it offers?
 It is an intermediate area where your changes live before you commit them.
 It is an interesting feature of Git as you can check all your changes (and 
 change again or revert them) before committing.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can use git diff/status to check your changes and modified files.
