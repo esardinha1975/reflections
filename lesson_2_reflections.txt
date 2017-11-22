@@ -25,3 +25,9 @@ How would branches help?
 - Testing new features;
 - Modifying and exploring code;
 - Etc.
+
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams let me see how many branches there exist, from which commit 
+they were split and how they are synchronized to each other.
