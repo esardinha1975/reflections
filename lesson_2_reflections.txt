@@ -31,3 +31,10 @@ How do the diagrams help you visualize the branch structure?
 
 Diagrams let me see how many branches there exist, from which commit 
 they were split and how they are synchronized to each other.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram 
+the way we do?
+
+Result is a commit containing all (or some) changes from other branch which 
+aren't on current branch.
