@@ -38,3 +38,14 @@ the way we do?
 
 Result is a commit containing all (or some) changes from other branch which 
 aren't on current branch.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros
+- Git can merge all code which don't create conflicts;
+- Git add to history all necessary commits.
+
+Cons
+- Git can't guess all desired changes when a coflict occurs;
+- We have to manually resolve conflicts.
